@@ -3,6 +3,7 @@
  <img align='left' src='https://github-readme-stats.vercel.app/api?username=simyking&theme=algolia&show_icons=true'/>
  <p align='center'><hr/></p>
 <img 'width='100%' src='Secreatstuff/nnetwork.gif'/>
+<img 'width='100%' src='Secreatstuff/compute.gif'/>
  <!--<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=simyking&layout=compact&theme=algolia'/>-->
 
 <!--
