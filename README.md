@@ -1,7 +1,8 @@
  <h1 align='right'>Software Engineer 🚀 Full-Stack Developer</h1>
- <h5 align= 'left'>Github Statistics</h5>
- <img src='https://github-readme-stats.vercel.app/api?username=simyking&theme=algolia&show_icons=true'/>
- <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=simyking&layout=compact&theme=algolia'/>
+ <h5 align='left'>Github Statistics</h5>
+ <img align='left' width='60%' src='https://github-readme-stats.vercel.app/api?username=simyking&theme=algolia&show_icons=true'/>
+ <img align='right' width='32%' src='Secreatstuff/galaxy.gif'/>
+ <!--<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=simyking&layout=compact&theme=algolia'/>-->
 
 <!--
 **simyking/simyking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
