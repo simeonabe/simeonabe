@@ -10,7 +10,7 @@
     👯 I’m looking to collaborate on Developing Demo's Of DevOps Deployment Templates. 
     🤔 I’m looking for help with learning Scripting, Prototype Deployments.
     🤔 I’m looking for help with learning cloud configs.
-    📫 How to reach me: [https://www.linkedin.com/in/💻simeon-abraham-501226b2/](https://www.linkedin.com/in/💻simeon-abraham-501226b2/)
+    📫 How to reach me: [https://www.linkedin.com/in/simeon-abraham-501226b2/])
 
 
 <!--
