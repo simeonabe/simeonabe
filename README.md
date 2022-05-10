@@ -6,7 +6,7 @@
 <img 'width='100%' src='Secreatstuff/compute.gif'/>-->
  <!--<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=simyking&layout=compact&theme=algolia'/>-->
 
-    🌱 I’m currently learning DevOps/DevSecOps Stack (Azure,GCP,AWS, IBM Cloud, Alibaba Cloud, Jenkins, Openshift)
+    🌱 I’m currently in basics & learning DevOps/DevSecOps Stack (Azure,GCP,AWS, IBM Cloud, Alibaba Cloud, Jenkins, Openshift)
     👯 I’m looking to collaborate on Developing Demo's Of DevOps Deployment Templates. 
     🤔 I’m looking for help with learning Scripting, Prototype Deployments.
     🤔 I’m looking for help with learning cloud configs.
