@@ -10,8 +10,7 @@
     👯 I’m looking to collaborate on Developing Demo's Of DevOps Deployment Templates. 
     🤔 I’m looking for help with learning Scripting, Prototype Deployments.
     🤔 I’m looking for help with learning cloud configs.
-    📫 How to reach me: simeon.333@hotmail.com
-
+    📫 How to reach me: simeonabraham@ymail.com || https://www.linkedin.com/in/simeon-abraham-501226b2
 
 <!--
 **simyking/simyking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
