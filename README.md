@@ -1,9 +1,9 @@
  <h1 align='right'>DevOps 🚀 Engineer</h1>
  ### Hey 👋, I'm Simeon Abraham!
- <h4 align='left'>Github Statistics</h4>
  * I’m looking for Entry Level DevOps Role. 
  * DevOps Enthusaist
  * MSc Computer Science 
+ <h4 align='left'>Github Statistics</h4>
  <img align='left' src='https://github-readme-stats.vercel.app/api?username=simeonabe&theme=algolia&show_icons=true'/>
  <!--<p align='center'><hr/></p>-->
 <!--<img 'width='100%' src='Secreatstuff/nnetwork.gif'/>
