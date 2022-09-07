@@ -1,4 +1,4 @@
- <h1 align='right'>DevOps 🚀 Engineer</h1>
+ <h2 align='right'>DevOps/SRE 🚀 Engineer</h2>
  ## Hello there 👋, I'm Simeon Abraham!
  * I’m looking for Entry Level DevOps Role. 
  * DevOps Enthusaist
@@ -13,7 +13,7 @@
    
   🙂 I’m good with basics in cloud configs and pipeline flows.
   🙂 I’m knowledgalbe in basics and i Could use Some Colaboration with Scripting, Prototype Deployments.
-  🌱 I’m good in basics of Toolchain integrations (AWS, GCP, Azure, IBM Cloud, Oracle Cloud, Alibaba Cloud, Gitlab, Github, Jenkins, Openshift, WordPress) 
+  🌱 I’m good in basics of Toolchain integrations (AWS, GCP, Microsoft Azure, IBM Cloud, Oracle Cloud, Alibaba Cloud, Gitlab, Github, Jenkins, Openshift, WordPress) 
       & learning futher DevOps workflows.
   📫 How to reach me: simeonabraham@ymail.com || https://www.linkedin.com/in/simeon-abraham-501226b2
 
