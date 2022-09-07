@@ -8,7 +8,7 @@
 
    
     👯 I’m looking for Entry Level DevOps Role. 
-    🤔 I’m bood in basics with cloud configs and pipeline flow.
+    🤔 I’m good with basics in cloud configs and pipeline flow.
     📫 How to reach me: simeonabraham@ymail.com || https://www.linkedin.com/in/simeon-abraham-501226b2
     🤔 I’m knowledgalbe in basics and i Could use Some Colaboration with Scripting, Prototype Deployments.
     🌱 I’m good in basics (AWS, GCP, Azure, IBM Cloud, Alibaba Cloud, Gitlab, Jenkins, Openshift, WordPress) & learning futher of DevOps Stack 
