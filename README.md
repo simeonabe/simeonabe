@@ -1,6 +1,6 @@
  <h2 align='left'>DevOps/SRE 🚀 Engineer</h2>
  ## Hello there 👋, I'm Simeon Abraham!
- * I’m looking for Entry Level DevOps Role. 
+ * I’m looking for a Entry Level DevOps Role. 
  * DevOps Enthusaist
  * BSc Computer Science 
  <h4 align='left'>Github Statistics</h4>
