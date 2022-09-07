@@ -11,7 +11,7 @@
     🤔 I’m good with basics in cloud configs and pipeline flow.
     📫 How to reach me: simeonabraham@ymail.com || https://www.linkedin.com/in/simeon-abraham-501226b2
     🤔 I’m knowledgalbe in basics and i Could use Some Colaboration with Scripting, Prototype Deployments.
-    🌱 I’m good in basics Toolchain integration (AWS, GCP, Azure, IBM Cloud, Alibaba Cloud, Gitlab, Jenkins, Openshift, WordPress) & learning futher of DevOps Stack 
+    🌱 I’m good in basics Toolchain integrations (AWS, GCP, Azure, IBM Cloud, Alibaba Cloud, Gitlab, Jenkins, Openshift, WordPress) & learning futher of DevOps Stack 
 
 <!--
 **simeonabe/simeonabe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
