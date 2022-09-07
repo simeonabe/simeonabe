@@ -1,6 +1,7 @@
  <h1 align='right'>DevOps 🚀 Engineer</h1>
  ### Hey 👋, I'm Simeon Abraham!
  <h4 align='left'>Github Statistics</h4>
+ * I’m looking for Entry Level DevOps Role. 
  * DevOps Enthusaist
  * MSc Computer Science 
  <img align='left' src='https://github-readme-stats.vercel.app/api?username=simeonabe&theme=algolia&show_icons=true'/>
@@ -10,7 +11,6 @@
  <!--<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=simyking&layout=compact&theme=algolia'/>-->
 
    
-    👯 I’m looking for Entry Level DevOps Role. 
     🤔 I’m good with basics in cloud configs and pipeline flow.
     📫 How to reach me: simeonabraham@ymail.com || https://www.linkedin.com/in/simeon-abraham-501226b2
     🤔 I’m knowledgalbe in basics and i Could use Some Colaboration with Scripting, Prototype Deployments.
