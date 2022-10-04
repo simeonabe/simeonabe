@@ -11,7 +11,7 @@
  <!--<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=simeonabe&layout=compact&theme=algolia'/>-->
 
    
-  🙂 I’m good with basics in cloud configs and pipeline flows.
+  🙂 I’m good with basics and fundamentals in cloud configs and pipeline flows.
   🙂 I’m knowledgalbe in basics and i Could use Some Colaboration with Scripting, Prototype Deployments.
   🌱 I’m good in basics of Toolchain integrations (AWS, GCP, Microsoft Azure, IBM Cloud, Oracle Cloud, Alibaba Cloud, Gitlab, Github, Jenkins, Openshift, WordPress, Confluence) 
       & learning futher DevOps workflows.
