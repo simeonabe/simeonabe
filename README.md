@@ -1,9 +1,9 @@
  <h2 align='left'>DevOps/SRE/QA 🚀 Engineer</h2>
  ## Hello there 👋, I'm Simeon Abraham!
  * I’m looking for a Entry Level DevOps & QA Role. 
- * DevOps Enthusaist
- * BSc Computer Science
- * MSc Computer Science Pursuing 
+ * DevOps & QA.
+ * BSc Computer Science.
+ * MSc Computer Science Currently Pursuing. 
  <h4 align='left'>Github Statistics</h4>
  <img align='left' src='https://github-readme-stats.vercel.app/api?username=simeonabe&theme=algolia&show_icons=true'/>
  <!--<p align='center'><hr/></p>-->
