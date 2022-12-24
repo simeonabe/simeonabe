@@ -1,7 +1,7 @@
  <h2 align='left'>DevOps/SRE/QA 🚀 Engineer</h2>
  ## Hello there 👋, I'm Simeon Abraham!
- * I’m looking for a Entry Level DevOps & QA Role. 
- * DevOps & QA.
+ * I’m looking for a Entry Level DevOps/SRE/Systems Admin Role. 
+ * DevOps/SRE/Systems Admin .
  * BSc Computer Science.
  * MSc Computer Science Currently Pursuing. 
  <h4 align='left'>Github Statistics</h4>
