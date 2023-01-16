@@ -1,11 +1,12 @@
  <h2 align='left'>DevOps/SRE/QA 🚀 Engineer</h2>
+ Team Player | Lifelong Learner
  ## Hello there 👋, I'm Simeon Abraham!
  * I’m looking for a Entry Level DevOps/SRE/Systems Admin Role. 
  * DevOps/SRE/Systems Admin .
  * BSc Computer Science.
  * MSc Computer Science Currently Pursuing. 
- <h2 align='left'>Github Statistics</h2>
- <img align='left' src='https://github-readme-stats.vercel.app/api?username=simeonabe&theme=transparent&show_icons=true'/>
+ <!--h2 align='left'>Github Statistics</h2>
+ <!--img width="50%" src="https://raw.githubusercontent.com/simeonabe/profile-unicorn/master/profile-summary-card-output/github/0-profile-details.svg" />
  <!--<p align='center'><hr/></p>-->
  <!--<img 'width='100%' src='Secreatstuff/nnetwork.gif'/>
  <img 'width='100%' src='Secreatstuff/compute.gif'/>-->
