@@ -4,8 +4,8 @@
  * DevOps/SRE/Systems Admin .
  * BSc Computer Science.
  * MSc Computer Science Currently Pursuing. 
- <h4 align='left'>Github Statistics</h4>
- <img align='left' src='https://github-readme-stats.vercel.app/api?username=simeonabe&theme=algolia&show_icons=true'/>
+ <h2 align='left'>Github Statistics</h2>
+ <img align='left' src='https://github-readme-stats.vercel.app/api?username=simeonabe&theme=transparent&show_icons=true'/>
  <!--<p align='center'><hr/></p>-->
  <!--<img 'width='100%' src='Secreatstuff/nnetwork.gif'/>
  <img 'width='100%' src='Secreatstuff/compute.gif'/>-->
