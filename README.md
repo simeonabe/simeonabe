@@ -10,7 +10,7 @@
  <!--<p align='center'><hr/></p>-->
  <!--<img 'width='100%' src='Secreatstuff/nnetwork.gif'/>
  <img 'width='100%' src='Secreatstuff/compute.gif'/>-->
- <!--<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=simeonabe&layout=compact&theme=algolia'/>-->
+ <!--<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=simeonabe&layout=compact&theme=transparent'/>-->
 
   🙂 I’m good with basics and fundamentals in cloud configurations and pipeline flows.
   🙂 I’m knowledgable in basics and i Could use Some Colaboration with Scripting, Prototype Deployments.
