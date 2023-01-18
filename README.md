@@ -5,8 +5,9 @@
  * DevOps/SRE/Systems Admin .
  * BSc Computer Science.
  * MSc Computer Science Currently Pursuing.
- <h2 align='left'>Github Stats</h2>
- <[Simeon's Card](https://github-readme-stats.vercel.app/api?username=simeonabe&show_icons=true&theme=transparent)/>
+ <!--h2 align='left'>Github Stats</h2>
+ <!--{![Simeon's Card](https://github-readme-stats.vercel.app/api?username=simeonabe&theme=github_dark&show_icons=true)/>
+ <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=simeonabe)](https://github.com/anuraghazra/github-readme-stats)
  <!--<p align='center'><hr/></p>-->
  <!--<img 'width='100%' src='Secreatstuff/nnetwork.gif'/>
  <img 'width='100%' src='Secreatstuff/compute.gif'/>-->
