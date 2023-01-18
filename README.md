@@ -5,8 +5,8 @@
  * DevOps/SRE/Systems Admin .
  * BSc Computer Science.
  * MSc Computer Science Currently Pursuing.
- <!--h2 align='left'>Github Statistics</h2>
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=simeonabe&theme=dark&background=000080)](https://git.io/streak-stats)
+ <h2 align='left'>Github Stats</h2>
+ <[Simeon's Card](https://github-readme-stats.vercel.app/api?username=simeonabe&show_icons=true&theme=transparent)/>
  <!--<p align='center'><hr/></p>-->
  <!--<img 'width='100%' src='Secreatstuff/nnetwork.gif'/>
  <img 'width='100%' src='Secreatstuff/compute.gif'/>-->
