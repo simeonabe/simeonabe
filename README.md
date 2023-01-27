@@ -5,7 +5,7 @@
  * DevOps/SRE/Systems Admin .
  * BSc Computer Science.
  * MSc Computer Science Currently Pursuing.
- <h2 align='left'>Github Stats</h2>
+ <!--h2 align='left'>Github Stats</h2>
  <!--[Kratos02 GitHub stats](https://github-readme-stats.vercel.app/api?username=kratos02&show_icons=true&theme=white)>
  <!--[![Simeonabe's GitHub stats](https://github-readme-stats.vercel.app/api?username=simeonabe)](https://github.com/simeonabe/github-readme-stats)
  <!--<p align='center'><hr/></p>-->
