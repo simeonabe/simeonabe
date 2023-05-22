@@ -1,7 +1,7 @@
  <h2 align='left'>DevOps/Cloud/SRE 🚀 Engineer</h2>
- Team Player | Lifelong Learner
  ## Hello there 👋, I'm Simeon Abraham!
- * I’m looking for a Entry Level DevOps/SRE/Systems Admin Role. 
+ Team Player | Lifelong Learner
+ * I’m looking for a Entry Level DevOps/SRE/Cloud Role. 
  * DevOps/SRE/Systems Admin .
  * BSc Computer Science.
  * MSc Computer Science Currently Pursuing.
