@@ -4,7 +4,7 @@
  * I’m looking for a Entry Level DevOps/SRE/Cloud Role. 
  * DevOps/Cloud/SRE/Systems Admin.
  * BSc Computer Science.
- * MSc Computer Science Currently Pursuing.
+ * MSc Computer Science.
  <!--h2 align='left'>Github Stats</h2>
  <!--[Kratos02 GitHub stats](https://github-readme-stats.vercel.app/api?username=kratos02&show_icons=true&theme=white)>
  <!--[![Simeonabe's GitHub stats](https://github-readme-stats.vercel.app/api?username=simeonabe)](https://github.com/simeonabe/github-readme-stats)
