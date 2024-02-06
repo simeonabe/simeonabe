@@ -15,7 +15,7 @@
 
   🙂 I’m good with basics and fundamentals in cloud configurations and pipeline flows.
   🙂 I’m knowledgable in basics and i Could use Some Colaboration with Scripting, Prototype Deployments.
-  🌱 I’m good in basics of Toolchain integrations (AWS, GCP, Microsoft Azure, IBM Cloud, Oracle Cloud, Alibaba Cloud, Gitlab, Github, Jenkins, Openshift, WordPress, Confluence) & learning futher DevOps & QA Testing tools and Methodology workflows.
+  🌱 I’m good in basics of Toolchain integrations (AWS, GCP, Microsoft Azure, IBM Cloud, Oracle Cloud, Alibaba Cloud, Gitlab, Github, Jenkins, Openshift, WordPress, Confluence) & learning to Develop futher DevOps & Methodology workflows.
   📫 How to reach me: simeonabraham@ymail.com || [![Linkedin Badge](https://img.shields.io/badge/-simeonabraham-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/simeon-abraham-501226b2/)](https://www.linkedin.com/in/simeon-abraham-501226b2)
 
 
