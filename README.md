@@ -1,11 +1,11 @@
-<h2 align='left'>DevOps/Cloud/SRE/Data Engineer/Data Analyst 🚀</h2>
+<h3 align='left'>DevOps/Cloud/SRE/Data Engineer/Data Analyst 🚀</h3>
 <!DOCTYPE html>
 <html lang="en">
 <head>
 </head>
 <body>
     <div class="container">
-        <h3>Hello there <span class="emoji">👋</span>, I'm Simeon Abraham!</h3>
+        <h4>Hello there <span class="emoji">👋</span>, I'm Simeon Abraham!</h4>
         <p class="list-item">Team Player | Lifelong Learner</p>
         <ul>
             <li class="list-item">I’m looking for Entry Level DevOps/SRE/Cloud/Data analyst/Data Engineer roles.</li>
@@ -15,8 +15,8 @@
         </ul>
         <p class="list-item">🙂 I’m good with basics and fundamentals in cloud configurations and pipeline flows.</p>
         <p class="list-item">🙂 I’m knowledgeable in basics and I could use some collaboration with scripting, prototype deployments.</p>
-        <p class="list-item">🌱 I’m currently good in basics of Toolchain integrations (AWS, GCP, Microsoft Azure, IBM Cloud, Oracle Cloud, Alibaba Cloud, Gitlab, Github, Jenkins, Openshift, WordPress, Confluence) & learning to develop further DevOps & Methodology workflows and along with Data Science (AI & ML, Data Analysis, Visualizations, Python, SQL, R, PowerBI, Tableau).</p>
-        <p class="list-item"></p>
+        <p class="list-item">🌱 I’m currently good in basics of Toolchain integrations (AWS, GCP, Microsoft Azure, IBM Cloud, Oracle Cloud, Alibaba Cloud, Gitlab, Github, Jenkins, Openshift, WordPress, Confluence) & learning to develop                                   further DevOps & Methodology workflows and along with Data Science </p> 
+        <p class="list-item"> (AI & ML, Data Analysis, Visualizations, Python, SQL, R, PowerBI, Tableau).</p>
     </div>
 </body>
 </html>
