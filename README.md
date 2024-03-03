@@ -1,4 +1,4 @@
- <h2 align='left'>DevOps/Cloud/SRE/Data Analyst 🚀 Engineer</h2>
+ <h2 align='left'>DevOps/Cloud/SRE/Data Analyst 🚀 Data Engineer</h2>
  ## Hello there 👋, I'm Simeon Abraham!
  Team Player | Lifelong Learner
  * I’m looking for a Entry Level DevOps/SRE/Cloud/Data analyst/ Data Engineer/roles. 
