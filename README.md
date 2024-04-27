@@ -86,7 +86,6 @@
  <!--<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=simeonabe&layout=compact&theme=transparent'/>-->
 
  <br />
- <br />
 
   📫 How to reach me: simeonabraham@ymail.com || [![Linkedin Badge](https://img.shields.io/badge/-simeonabraham-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/simeon-abraham-501226b2/)](https://www.linkedin.com/in/simeon-abraham-501226b2)|| or Contact From the Resume/CV Details.
 
