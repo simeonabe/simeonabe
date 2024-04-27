@@ -17,6 +17,17 @@
         <p class="list-item">🙂 I’m knowledgeable in basics and I could use some collaboration with scripting, prototype deployments.</p>
         <p class="list-item">🌱 I’m currently good in basics of Toolchain integrations (AWS, GCP, Microsoft Azure, IBM Cloud, Oracle Cloud, Alibaba Cloud, Gitlab, Github, Jenkins, Openshift, WordPress, Confluence) & learning to develop                                   further DevOps & Methodology workflows and along with Data Science </p> 
         <p class="list-item"> (AI & ML, Data Analysis, Visualizations, Python, SQL, R, PowerBI, Tableau, Advanced Excel).</p>
+
+### Languages and Tools
+
+<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="JupyterNotebook" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
     </div>
 </body>
 </html>
@@ -27,6 +38,9 @@
  <!--<img 'width='100%' src='Secreatstuff/nnetwork.gif'/>
  <img 'width='100%' src='Secreatstuff/compute.gif'/>-->
  <!--<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=simeonabe&layout=compact&theme=transparent'/>-->
+
+ <br />
+<br />
 
   📫 How to reach me: simeonabraham@ymail.com || [![Linkedin Badge](https://img.shields.io/badge/-simeonabraham-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/simeon-abraham-501226b2/)](https://www.linkedin.com/in/simeon-abraham-501226b2)
 
