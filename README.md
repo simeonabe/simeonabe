@@ -16,7 +16,7 @@
         <p class="list-item">🙂 I’m good with basics and fundamentals in cloud configurations and pipeline flows.</p>
         <p class="list-item">🙂 I’m knowledgeable in basics and I could use some collaboration with scripting, prototype deployments.</p>
         <p class="list-item">🌱 I’m currently good in basics of Toolchain integrations (AWS, GCP, Microsoft Azure, IBM Cloud, Oracle Cloud, Alibaba Cloud, Gitlab, Github, Jenkins, Openshift, WordPress, Confluence) & learning to develop                                   further DevOps & Methodology workflows and along with Data Science </p> 
-        <p class="list-item"> (AI & ML, Data Analysis, Visualizations, Python, SQL, R, PowerBI, Tableau).</p>
+        <p class="list-item"> (AI & ML, Data Analysis, Visualizations, Python, SQL, R, PowerBI, Tableau, Advanced Excel).</p>
     </div>
 </body>
 </html>
