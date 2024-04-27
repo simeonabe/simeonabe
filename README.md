@@ -24,7 +24,7 @@
 ### 🖥️ OS
 
 <img align="left" alt="Windows" width="26px" src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" />
-<img align="left" alt="MacOS" width="26px" src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" />
+<img align="left" alt="MacOS" width="26px" src="https://github.com/simeonabe/simeonabe/blob/919216390b54798b88931dee5dd81af89918ca80/Secreatstuff/macos%20(1).png" />
 <img align="left" alt="Linux" width="26px" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" />
 <img align="left" alt="Ubuntu" width="26px" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" />
 
