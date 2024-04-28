@@ -20,8 +20,6 @@
         & learning to develop further DevOps & Data Science/Analysis Methodology workflows.</p>
         <p class="list-item"> (AI & ML, Data Science/Analysis, Visualizations, Python, SQL, R, PowerBI, Tableau, Advanced Excel).</p>
 
-<br />
-
 ### ☁️ Cloud
 
 <img align="left" alt="AWS" width="26px" src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/AWS-Dark.svg" />
