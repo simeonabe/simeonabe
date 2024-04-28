@@ -10,6 +10,7 @@
         <ul>
             <li class="list-item">I’m looking for Entry Level DevOps/ SRE/ Cloud/ Data Science/ Analyst/ Engineer roles.</li>
             <li class="list-item">AWS Certified Solutions Architect - Associate, AWS Certified Cloud Practitioner.</li>
+            <li class="list-item">MCP, MCSE, Windows Server Architecture.</li>
             <li class="list-item">📚 BSc Computer Science.</li>
             <li class="list-item">🎓 MSc Computer Science.</li>
         </ul>
@@ -18,16 +19,6 @@
         <p class="list-item">🌱 I’m currently good in basics of Toolchain integrations (AWS, GCP, Microsoft Azure, IBM Cloud, Oracle Cloud, Alibaba Cloud, Github, Gitlab, Jenkins, Openshift, WordPress, Confluence)
         & learning to develop further DevOps & Data Science/Analysis Methodology workflows.</p>
         <p class="list-item"> (AI & ML, Data Science/Analysis, Visualizations, Python, SQL, R, PowerBI, Tableau, Advanced Excel).</p>
-
-<br />
-
-### 🖥️ OS
-
-<img align="left" alt="Windows" width="26px" src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Windows-Dark.svg" />
-<img align="left" alt="MacOS" width="26px" src="https://github.com/simeonabe/simeonabe/blob/919216390b54798b88931dee5dd81af89918ca80/Secreatstuff/macos%20(1).png" />
-<img align="left" alt="Linux" width="26px" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" />
-<img align="left" alt="Ubuntu" width="26px" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" />
-
 
 <br />
 
@@ -49,26 +40,20 @@
 
 <br />
 
-### Languages Technologies and Tools
+### Languages and Tools
 
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="TensorFlow" width="26px" src="https://user-images.githubusercontent.com/25181517/223639822-2a01e63a-a7f9-4a39-8930-61431541bc06.png" />
-<img align="left" alt="Scikit-Learn" width="26px" src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/ScikitLearn-Dark.svg" />
-<img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Bash" width="26px" src="https://user-images.githubusercontent.com/25181517/192158606-7c2ef6bd-6e04-47cf-b5bc-da2797cb5bda.png" />
 <img align="left" alt="JupyterNotebook" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Power BI Desktop" width="26px" src="https://github.com/microsoft/PowerBI-Icons/blob/2bf1c982fb24528eee1559a96a25eb534c175cfd/PNG/Desktop.png" />
+<img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Terraform" width="26px" src="https://user-images.githubusercontent.com/25181517/183345121-36788a6e-5462-424a-be67-af1ebeda79a2.png" />
 <img align="left" alt="Docker" width="26px" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" />
-<img align="left" alt="Nginx" width="26px" src="https://user-images.githubusercontent.com/25181517/183345125-9a7cd2e6-6ad6-436f-8490-44c903bef84c.png" />
-<img align="left" alt="Flask" width="26px" src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Flask-Dark.svg" />
+<img align="left" alt="Kubernetes" width="26px" src="https://user-images.githubusercontent.com/25181517/182534006-037f08b5-8e7b-4e5f-96b6-5d2a5558fa85.png" />
 <img align="left" alt="Jenkins" width="26px" src="https://user-images.githubusercontent.com/25181517/179090274-733373ef-3b59-4f28-9ecb-244bea700932.png" />
 <img align="left" alt="Groovy" width="26px" src="https://user-images.githubusercontent.com/25181517/183892787-bca94a0e-ffcb-4eeb-8137-e0fc4e446c25.png" />
-<img align="left" alt="CI/CD" width="26px" src="https://user-images.githubusercontent.com/25181517/183868728-b2e11072-00a5-47e2-8a4e-4ebbb2b8c554.png" />
-<img align="left" alt="Kubernetes" width="26px" src="https://user-images.githubusercontent.com/25181517/182534006-037f08b5-8e7b-4e5f-96b6-5d2a5558fa85.png" />
 <img align="left" alt="Ansible" width="26px" src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Ansible.svg" />
 <img align="left" alt="OpenShift" width="26px" src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/OpenShift.svg" />
 <img align="left" alt="WordPress" width="26px" src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Wordpress.svg" />
@@ -106,3 +91,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
