@@ -39,7 +39,6 @@
 <img align="left" alt="IBM Cloud" width="26px" src="https://user-images.githubusercontent.com/25181517/183911551-5e9953db-e713-4130-9f17-e2fd25ec9767.png" />
 
 <br />
-<br />
 
 ### 🧰 Version Control
 
@@ -49,12 +48,10 @@
 <img align="left" alt="Bitbucket" width="26px" src="https://user-images.githubusercontent.com/25181517/192108375-268c35e6-ab26-44b2-88bf-e3121a4e5083.png" />
 
 <br />
-<br />
 
 ### Languages Technologies and Tools
 
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="TensorFlow" width="26px" src="https://user-images.githubusercontent.com/25181517/223639822-2a01e63a-a7f9-4a39-8930-61431541bc06.png" />
 <img align="left" alt="Scikit-Learn" width="26px" src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/ScikitLearn-Dark.svg" />
@@ -75,8 +72,9 @@
 <img align="left" alt="Ansible" width="26px" src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Ansible.svg" />
 <img align="left" alt="OpenShift" width="26px" src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/OpenShift.svg" />
 <img align="left" alt="WordPress" width="26px" src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Wordpress.svg" />
+<img align="left" alt="Hugging-Face" width="26px" src="https://github.com/simeonabe/simeonabe/blob/7e0fb11be588d59175563311f2283db4206f817f/Secreatstuff/hficon.jpeg" />
 
-<br />
+ <br />
 
   </div>
 </body>
