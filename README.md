@@ -15,9 +15,9 @@
         </ul>
         <p class="list-item">🙂 I’m good with basics and fundamentals in cloud configurations and pipeline flows.</p>
         <p class="list-item">🙂 I’m knowledgeable in basics and I could use some collaboration with scripting, prototype deployments.</p>
-        <p class="list-item">🌱 I’m currently good in basics of Toolchain integrations 
-            (AWS, GCP, Microsoft Azure, IBM Cloud, Oracle Cloud, Alibaba Cloud, Gitlab, Github, Jenkins, Openshift, WordPress, Confluence) & learning to develop further DevOps & Methodology workflows and along with Data Science/ Data                  Analysis..</p> 
-        <p class="list-item"> (AI & ML, Data Analysis, Visualizations, Python, SQL, R, PowerBI, Tableau, Advanced Excel).</p>
+        <p class="list-item">🌱 I’m currently good in basics of Toolchain integrations (AWS, GCP, Microsoft Azure, IBM Cloud, Oracle Cloud, Alibaba Cloud, Github, Gitlab, Jenkins, Openshift, WordPress, Confluence)
+        & learning to develop further DevOps & Data Science/Analysis Methodology workflows.</p>
+        <p class="list-item"> (AI & ML, Data Science/Analysis, Visualizations, Python, SQL, R, PowerBI, Tableau, Advanced Excel).</p>
 
 <br />
 
@@ -89,7 +89,7 @@
 
  <br />
 
-  📫 How to reach me: simeonabraham@ymail.com || [![Linkedin Badge](https://img.shields.io/badge/-simeonabraham-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/simeon-abraham-501226b2/)](https://www.linkedin.com/in/simeon-abraham-501226b2)|| or Contact From the Resume/CV Details.
+📫 How to reach me: simeonabraham@ymail.com || [![Linkedin Badge](https://img.shields.io/badge/-simeonabraham-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/simeon-abraham-501226b2/)](https://www.linkedin.com/in/simeon-abraham-501226b2)|| or Contact From the Resume/CV Details.
 
 
 <!--
