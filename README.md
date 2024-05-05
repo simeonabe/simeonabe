@@ -9,8 +9,8 @@
         <p class="list-item">Team Player | Lifelong Learner</p>
         <ul>
             <li class="list-item">I’m looking for Entry Level DevOps/ SRE/ Cloud/ Data Science/ Analyst/ Engineer roles.</li>
-            <li class="list-item">AWS Certified Solutions Architect - Associate, AWS Certified Cloud Practitioner.</li>
-            <li class="list-item">MCP, MCSE, Windows Server Architecture.</li>
+            <li class="list-item">📜AWS Certified Solutions Architect - Associate, AWS Certified Cloud Practitioner.</li>
+            <li class="list-item">📜MCP, MCSE, Windows Server Architecture.</li>
             <li class="list-item">📚 BSc Computer Science.</li>
             <li class="list-item">🎓 MSc Computer Science.</li>
         </ul>
