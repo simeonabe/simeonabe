@@ -74,6 +74,9 @@
  
 📫 How to reach me: simeonabraham@ymail.com || [![Linkedin Badge](https://img.shields.io/badge/-simeonabraham-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/simeon-abraham-501226b2/)](https://www.linkedin.com/in/simeon-abraham-501226b2)|| or Contact From the Resume/CV Details.
 
+ <br />
+ 
+[![github follow](https://img.shields.io/github/followers/simeonabe?label=Follow_on_GitHub)](https://github.com/simeonabe)
 
 <!--
 **simeonabe/simeonabe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
