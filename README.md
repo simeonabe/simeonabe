@@ -6,19 +6,15 @@
 <body>
     <div class="container">
         <h4>Hello there <span class="emoji">👋</span>, I'm Simeon Abraham!</h4>
-        <p class="list-item">Team Player | Lifelong Learner</p>
+        <p class="list-item">Lifelong Learner | Team Player</p>
         <ul>
-            <li class="list-item">I’m looking for Entry Level DevOps/ Cloud/ SRE/ Data Science/ Analyst/ Engineer roles.</li>
+            <li class="list-item">I’m looking for Entry Level DevOps/ Cloud/ SRE/ Data Science/ Analyst/ AI/ML Engineer roles.</li>
             <li class="list-item">📜AWS Certified Cloud Practitioner, AWS Certified Solutions Architect - Associate.</li>
-            <li class="list-item">📜MCP, MCSE, Windows Server Architecture.</li>
-            <li class="list-item">📚 BSc Computer Science.</li>
-            <li class="list-item">🎓 MSc Computer Science.</li>
+            <li class="list-item">📜MCP, MCSA, MCSE, Windows Server Architecture.</li>
+            <li class="list-item">🎓MSc Computer Science & IT.</li>
+            <li class="list-item">📚BSc Computer Science.</li>
         </ul>
-        <p class="list-item">🙂 I’m good with basics and fundamentals in cloud configurations and pipeline flows.</p>
-        <p class="list-item">🙂 I’m knowledgeable in basics and I could use some collaboration with scripting, prototype deployments.</p>
-        <p class="list-item">🌱 I’m currently good in basics of Toolchain integrations (AWS, GCP, Microsoft Azure, IBM Cloud, Oracle Cloud, Alibaba Cloud, Github, Gitlab, Jenkins, Openshift, WordPress, Confluence)
-        & learning to develop further DevOps & Data Science/Analysis Methodology workflows.</p>
-        <p class="list-item"> (AI & ML, Data Science/Analysis, Visualizations, Python, SQL, R, PowerBI, Tableau, Advanced Excel).</p>
+
 
 ### ☁️ Cloud
 
@@ -62,6 +58,7 @@
   </div>
 </body>
 </html>
+
  <!--h2 align='left'>Github Stats</h2>
  <!--[Kratos02 GitHub stats](https://github-readme-stats.vercel.app/api?username=kratos02&show_icons=true&theme=white)>
  <!--[![Simeonabe's GitHub stats](https://github-readme-stats.vercel.app/api?username=simeonabe)](https://github.com/simeonabe/github-readme-stats)
@@ -91,5 +88,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+      - <p class="list-item">🙂 I’m good with basics and fundamentals in cloud configurations and pipeline flows.</p>
+      - <p class="list-item">🙂 I’m knowledgeable in basics and I could use some collaboration with scripting, prototype deployments.</p>
+      - <p class="list-item">🌱 I’m currently good in basics of Toolchain integrations (AWS, GCP, Microsoft Azure, IBM Cloud, Oracle Cloud, Alibaba Cloud, Github, Gitlab, Jenkins, Openshift, WordPress, Confluence)
+        & learning to develop further DevOps & Data Science/Analysis Methodology workflows.</p>
+      - <p class="list-item"> (AI & ML, Data Science/Analysis, Visualizations, Python, SQL, R, PowerBI, Tableau, Advanced Excel).</p>
 -->
 
