@@ -6,11 +6,11 @@
 <body>
     <div class="container">
         <h4>Hello there <span class="emoji">👋</span>, I'm Simeon Abraham!</h4>
-        <p class="list-item">Lifelong Learner | Team Player</p>
+        <p class="list-item">Lifelong Continuous Learner & Team-Focused:</p>
         <ul>
-            <li class="list-item">I’m looking for Entry Level DevOps/ Cloud/ SRE/ Software FullStack / Data Science/ Analyst/ AI/ML Engineer roles.</li>
+            <li class="list-item">I’m looking for Entry Level DevOps/ Cloud/ SRE/ FullStack/ Software/ Data Science/ Analyst/ AI/ML Engineer roles.</li>
             <li class="list-item">📜AWS Certified Cloud Practitioner, AWS Certified Solutions Architect - Associate.</li>
-            <li class="list-item">📜MCP, MCSA, MCSE, Windows Server Architecture.</li>
+            <li class="list-item">📜MCP, MCSA, MCSE, Windows Server infrastructure & Architecture.</li>
             <li class="list-item">🎓MSc Computer Science & IT.</li>
             <li class="list-item">📚BSc Computer Science.</li>
         </ul>
