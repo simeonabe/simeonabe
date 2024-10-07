@@ -1,4 +1,4 @@
-<h3 align='left'> DevOps/ Cloud/ SRE/ Data Science/ Software FullStack/ Engineer/ Analyst 👨‍💻📊📈🚀</h3>
+<h3 align='left'> DevOps/ Cloud/ SRE/ Data Science/ FullStack/ Software/ Engineer/ Analyst 👨‍💻📊📈🚀</h3>
 <!DOCTYPE html>
 <html lang="en">
 <head>
