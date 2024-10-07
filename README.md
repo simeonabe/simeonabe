@@ -9,7 +9,7 @@
         <p class="list-item">Lifelong Continuous Learner & Team-Focused:</p>
         <p class="list-item">Currently AIML Engineer intern </p>
         <ul>
-            <li class="list-item">I’m looking for Entry Level DevOps/ Cloud/ SRE/ FullStack/ Software/ Data Science/ Analyst/ AI/ML Engineer roles.</li>
+            <li class="list-item">I’m looking for Entry Level DevOps/ Cloud/ SRE/ Data Science/ FullStack/ Software/ Analyst/ AI/ML Engineer roles.</li>
             <li class="list-item">📜AWS Certified Cloud Practitioner, AWS Certified Solutions Architect - Associate.</li>
             <li class="list-item">📜MCP, MCSA, MCSE, Windows Server infrastructure & Architecture.</li>
             <li class="list-item">🎓MSc Computer Science & IT.</li>
