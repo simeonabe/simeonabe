@@ -7,7 +7,7 @@
     <div class="container">
         <h4><span class="emoji">🧑👋</span> Hello there, I'm Simeon Abraham!</h4>
         <p class="list-item">Lifelong Continuous Learner & Team-Focused:</p>
-        <p class="list-item">AIML Engineer intern Currently</p>
+        <p class="list-item">Currently AIML Engineer intern </p>
         <ul>
             <li class="list-item">I’m looking for Entry Level DevOps/ Cloud/ SRE/ FullStack/ Software/ Data Science/ Analyst/ AI/ML Engineer roles.</li>
             <li class="list-item">📜AWS Certified Cloud Practitioner, AWS Certified Solutions Architect - Associate.</li>
