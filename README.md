@@ -6,7 +6,7 @@
 <body>
     <div class="container">
         <h4><span class="emoji">🧑👋</span> Hello there, I'm Simeon Abraham!</h4>
-        <p class="list-item">Lifelong Continuous Learner & Team-Focused:</p>
+        <p class="list-item">Team-Focused & Lifelong Continuous Learner:</p>
         <p class="list-item">Currently AIML Engineer intern </p>
         <ul>
             <li class="list-item">I’m looking for Entry Level DevOps/ Cloud/ SRE/ Data Science/ FullStack/ Software/ Analyst/ AI/ML Engineer roles.</li>
