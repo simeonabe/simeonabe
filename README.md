@@ -5,7 +5,7 @@
 </head>
 <body>
     <div class="container">
-        <h4><span class="emoji"> 🧑👋</span> Hello there, I'm Simeon Abraham!</h4>
+        <h4><span class="emoji">🧑👋</span> Hello there, I'm Simeon Abraham!</h4>
         <p class="list-item">Lifelong Continuous Learner & Team-Focused:</p>
         <ul>
             <li class="list-item">I’m looking for Entry Level DevOps/ Cloud/ SRE/ FullStack/ Software/ Data Science/ Analyst/ AI/ML Engineer roles.</li>
