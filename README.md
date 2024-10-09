@@ -1,11 +1,11 @@
-<h3 align='left'> DevOps/ Cloud/ SRE/ Data Science/ FullStack/ Software/ Engineer/ Analyst 👨‍💻📊📈🚀</h3>
+<h2 align='left'> DevOps/ Cloud/ SRE/ Data Science/ FullStack/ Software/ Engineer/ Analyst 👨‍💻📊📈🚀</h2>
 <!DOCTYPE html>
 <html lang="en">
 <head>
 </head>
 <body>
     <div class="container">
-        <h3><span class="emoji">🧑👋</span>Hello there, I'm Simeon Abraham!</h3>
+        <h2><span class="emoji">🧑👋</span>Hello there, I'm Simeon Abraham!</h2>
         <p class="list-item">Team-Focused & Lifelong Continuous Learner:</p>
         <p class="list-item">Currently AIML Engineer intern </p>
         <ul>
@@ -67,11 +67,12 @@
 
  <br />
  
-📫 How to reach me: simeonabraham@email.com || [![Linkedin Badge](https://img.shields.io/badge/-simeonabraham-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/simeon-abraham-501226b2/)](https://www.linkedin.com/in/simeon-abraham-501226b2)|| or Contact From the Resume/CV Details.
+ 📫 How to reach me: simeonabraham@email.com || [![Linkedin Badge](https://img.shields.io/badge/-simeonabraham-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/simeon-abraham-501226b2/)](https://www.linkedin.com/in/simeon-abraham-501226b2)|| or Contact From the Resume/CV Details.
 
  <br />
  
 [![github follow](https://img.shields.io/github/followers/simeonabe?label=Follow_on_GitHub)](https://github.com/simeonabe)
+
 
  <!--h2 align='left'>Github Stats</h2>
  <!--[Kratos02 GitHub stats](https://github-readme-stats.vercel.app/api?username=kratos02&show_icons=true&theme=white)>
