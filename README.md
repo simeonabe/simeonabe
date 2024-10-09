@@ -12,12 +12,12 @@
             <li class="list-item">I’m looking for Entry Level DevOps/ Cloud/ SRE/ Data Science/ FullStack/ Software/ Analyst/ AI/ML Engineer roles.</li>
             <li class="list-item">📜AWS Certified Cloud Practitioner, AWS Certified Solutions Architect - Associate.</li>
             <li class="list-item">📜MCP, MCSA, MCSE, Windows Server infrastructure & Architecture.</li>
-            <li class="list-item">🎓MSc Computer Science & IT.</li>
-            <li class="list-item">📚BSc Computer Science.</li>
+            <li class="list-item">🎓MSc in Computer Science & IT.</li>
+            <li class="list-item">📚Bachelors in Computer Science.</li>
         </ul>
 
 
-### ☁️ Cloud
+### ☁️ Cloud:
 
 <img align="left" alt="AWS" width="30px" src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/AWS-Dark.svg" />
 <img align="left" alt="Azure" width="30px" src="https://user-images.githubusercontent.com/25181517/183911544-95ad6ba7-09bf-4040-ac44-0adafedb9616.png" />
@@ -26,7 +26,7 @@
 
 <br />
 
-### 🧰 Version Control
+### 🧰 Version Control:
 
 <img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="30px" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" />
@@ -35,7 +35,7 @@
 
 <br />
 
-### Languages and Tools
+### 🌍⚙️🛠️Languages and Tools:
 
 <img align="left" alt="SQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
