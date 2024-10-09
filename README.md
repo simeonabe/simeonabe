@@ -5,17 +5,16 @@
 </head>
 <body>
     <div class="container">
-        <h4><span class="emoji">🧑👋</span> Hello there, I'm Simeon Abraham!</h4>
+        <h3><span class="emoji">🧑👋</span>Hello there, I'm Simeon Abraham!</h3>
         <p class="list-item">Team-Focused & Lifelong Continuous Learner:</p>
         <p class="list-item">Currently AIML Engineer intern </p>
         <ul>
-            <li class="list-item">I’m looking for Entry Level DevOps/ Cloud/ SRE/ Data Science/ FullStack/ Software/ Analyst/ AI/ML Engineer roles.</li>
+            <li class="list-item">I’m looking for Entry Level DevOps/ Cloud/ SRE/ Data Science/ FullStack/ Software/ Analyst/ AIML Engineer roles.</li>
             <li class="list-item">📜AWS Certified Cloud Practitioner, AWS Certified Solutions Architect - Associate.</li>
             <li class="list-item">📜MCP, MCSA, MCSE, Windows Server infrastructure & Architecture.</li>
             <li class="list-item">🎓MSc in Computer Science & IT.</li>
             <li class="list-item">📚Bachelors in Computer Science.</li>
         </ul>
-
 
 ### ☁️ Cloud:
 
@@ -66,14 +65,6 @@
 </body>
 </html>
 
- <!--h2 align='left'>Github Stats</h2>
- <!--[Kratos02 GitHub stats](https://github-readme-stats.vercel.app/api?username=kratos02&show_icons=true&theme=white)>
- <!--[![Simeonabe's GitHub stats](https://github-readme-stats.vercel.app/api?username=simeonabe)](https://github.com/simeonabe/github-readme-stats)
- <!--<p align='center'><hr/></p>-->
- <!--<img 'width='100%' src='Secreatstuff/nnetwork.gif'/>
- <img 'width='100%' src='Secreatstuff/compute.gif'/>-->
- <!--<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=simeonabe&layout=compact&theme=transparent'/>-->
-
  <br />
  
 📫 How to reach me: simeonabraham@email.com || [![Linkedin Badge](https://img.shields.io/badge/-simeonabraham-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/simeon-abraham-501226b2/)](https://www.linkedin.com/in/simeon-abraham-501226b2)|| or Contact From the Resume/CV Details.
@@ -81,6 +72,14 @@
  <br />
  
 [![github follow](https://img.shields.io/github/followers/simeonabe?label=Follow_on_GitHub)](https://github.com/simeonabe)
+
+ <!--h2 align='left'>Github Stats</h2>
+ <!--[Kratos02 GitHub stats](https://github-readme-stats.vercel.app/api?username=kratos02&show_icons=true&theme=white)>
+ <!--[![Simeonabe's GitHub stats](https://github-readme-stats.vercel.app/api?username=simeonabe)](https://github.com/simeonabe/github-readme-stats)
+ <!--<p align='center'><hr/></p>-->
+ <!--<img 'width='100%' src='Secreatstuff/nnetwork.gif'/>
+ <img 'width='100%' src='Secreatstuff/compute.gif'/>-->
+ <!--<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=simeonabe&layout=compact&theme=transparent'/>-->
 
 <!--
 **simeonabe/simeonabe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
