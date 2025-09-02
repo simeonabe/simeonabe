@@ -1,4 +1,4 @@
-<h2 align='left'>Cloud/ DevOps/ SRE/ Data Science/ Engineer/ Analyst 👨‍💻📊📈🚀</h2>
+<h2 align='left'>Cloud/ DevOps/ SRE/Engineer /Data Science/ Analyst 👨‍💻📊📈🚀</h2>
 <!DOCTYPE html>
 <html lang="en">
 <head>
