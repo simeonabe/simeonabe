@@ -9,7 +9,7 @@
         <p class="list-item">Team-Focused & Continuous Lifelong Learner:</p>
         <p class="list-item">Currently AWS DevOps Engineer</p>
         <ul>
-            <li class="list-item">I’m looking for Entry Level DevOps/ Cloud/ SRE/ Data Science/ FullStack/ Software/ Analyst/ AIML Engineer roles.</li>
+            <li class="list-item">I’m looking for Mid Level DevOps/ Cloud/ SRE/ Data Science/ Analyst/ AIML Engineer roles.</li>
             <li class="list-item">📜AWS Certified Cloud Practitioner, AWS Certified Solutions Architect - Associate.</li>
             <li class="list-item">📜MCP, MCSA, MCSE, Windows Server infrastructure & Architecture.</li>
             <li class="list-item">🎓MSc in Computer Science & IT.</li>
