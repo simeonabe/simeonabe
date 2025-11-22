@@ -96,10 +96,6 @@
 [![github follow](https://img.shields.io/github/followers/simeonabe?label=Follow_on_GitHub)](https://github.com/simeonabe)
 
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/simeonabe/count.svg?"  />
-</div>
-
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=simeonabe&theme=merko&custom_title=Simeon%20Abraham%20Activity%20Graph&hide_border=true&point=FFFFFF&days=50)](https://github.com/simeonabe)
 
 
@@ -111,6 +107,9 @@
  <!--<img 'width='100%' src='Secreatstuff/nnetwork.gif'/>
  <img 'width='100%' src='Secreatstuff/compute.gif'/>-->
  <!--<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=simeonabe&layout=compact&theme=transparent'/>-->
+ <!-- <div align="center">
+  <img src="https://profile-counter.glitch.me/simeonabe/count.svg?"  />
+</div>-->
 
 <!--
 **simeonabe/simeonabe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
