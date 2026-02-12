@@ -1,4 +1,4 @@
-<h2><span class="emoji">🧑👋</span>Hello there, I'm Simeon Abraham!</h2>
+<h2><span class="emoji">🧑👋</span>Hello There, I'm Simeon Abraham!</h2>
 <h2 align='left'>Cloud DevOps/ SRE/ Engineer /Data Analyst 👨‍💻📊📈🚀</h2>
 <!DOCTYPE html>
 <html lang="en">
@@ -6,7 +6,7 @@
 </head>
 <body>
 <div class="container">
-    <p class="list-item">Team-Focused & Continuous Lifelong Learner:</p>
+    <p class="list-item">Team-Focused & Solo Continuous Lifelong Learner:</p>
     <p class="list-item">Currently AWS DevOps Engineer</p>
     <ul>
         <li class="list-item">I’m looking for Mid-Senior Level Cloud DevOps/ SRE/ Data Science/ Analyst/ AIML Engineer roles.</li>
@@ -148,7 +148,7 @@
              box-shadow:0 0 12px rgba(255,45,32,0.8);" />
   </a>
 </p>
- <br />
+<br/>
 
 
   </div>
