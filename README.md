@@ -7,7 +7,7 @@
 <body>
 <div class="container">
     <p class="list-item">Team-Focused & Solo Continuous Lifelong Learner:</p>
-    <p class="list-item">Currently AWS DevOps Engineer</p>
+    <p class="list-item">Currently SRE DevOps Engineer</p>
     <ul>
         <li class="list-item">I’m looking for Mid-Senior Level Cloud DevOps/ SRE/ Data Science/ Analyst/ AIML Engineer roles.</li>
         <li class="list-item">📜AWS Certified Cloud Practitioner, AWS Certified Solutions Architect - Associate.</li>
